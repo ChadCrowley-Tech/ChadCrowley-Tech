@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Chad Crowley 👋
 
-<!--
-**ChadCrowley-Tech/ChadCrowley-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Cybersecurity student focused on secure network infrastructure, system modernization, and robust software development. I am passionate about bridging the gap between secure network architecture and efficient code.
 
-Here are some ideas to get you started:
+### 🔧 Technical Arsenal
+* **Languages:** Python, C++, Java, C#, HTML
+* **Infrastructure & Security:** Network Architecture, VLAN Segmentation, Firewall Configuration (Palo Alto, Meraki), HIPAA Compliance Standards
+* **Tools & Game Engines:** Git, Visio, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+### 🚀 Featured Project
+* **[Cosmic Shatter](https://chadcrowley.tech.github.io/Cosmic-Shatter/)**: A space-themed arcade game developed in Unity (C#). Showcases custom UI scripting, core game logic implementation, and memory integrity management. Available to play directly in the browser.
+
+### 📫 Let's Connect
+* **Email:** ChadCrowley.Tech@proton.me
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
