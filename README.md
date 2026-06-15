@@ -10,7 +10,7 @@ I am a Computer Science and Cybersecurity student focused on secure network infr
 
 ### 🚀 Featured Projects
 
-* **[EndpointAuditor](Link_To_Your_Repo_Here)**
+* **[EndpointAuditor](https://github.com/ChadCrowley-Tech/EndpointAuditor.git)**
   A scalable security auditing tool engineered with a strict Separation of Concerns architecture. Built to transition seamlessly from a lightweight Command Line Interface (CLI) to a fully featured Graphical User Interface (GUI), ensuring clean, maintainable, and robust code.
   <br>
   <p align="center">
@@ -20,7 +20,7 @@ I am a Computer Science and Cybersecurity student focused on secure network infr
     <img src="docs/EndpointAuditorScanComplete-HowToFix.png" width="24%" />
   </p>
 
-* **[PacketAuditor](Link_To_Your_Repo_Here)**
+* **[PacketAuditor](https://github.com/ChadCrowley-Tech/PacketAuditor.git)**
   A multi-threaded, stateful network traffic analyzer and forensic logging engine built in Python. Engineered with a CustomTkinter GUI, it features deep packet inspection (DPI), live reverse-DNS threat intelligence mapping, automated forensic PCAP exporting, and thread-safe visual analytics.
   <br>
   <p align="center">
