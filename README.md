@@ -14,9 +14,10 @@ I am a Computer Science and Cybersecurity student focused on secure network infr
   A scalable security auditing tool engineered with a strict Separation of Concerns architecture. Built to transition seamlessly from a lightweight Command Line Interface (CLI) to a fully featured Graphical User Interface (GUI), ensuring clean, maintainable, and robust code.
   <br>
   <p align="center">
-    <img src="docs/endpoint1.png" width="32%" />
-    <img src="docs/endpoint2.png" width="32%" />
-    <img src="docs/endpoint3.png" width="32%" />
+    <img src="docs/EndpointAuditorStartScreen.png" width="24%" />
+    <img src="docs/EndpointAuditorMainDashboard.png" width="24%" />
+    <img src="docs/EndpointAuditorScanning.png" width="24%" />
+    <img src="docs/EndpointAuditorScanComplete-HowToFix.png" width="24%" />
   </p>
 
 * **[PacketAuditor](Link_To_Your_Repo_Here)**
@@ -32,9 +33,10 @@ I am a Computer Science and Cybersecurity student focused on secure network infr
   A space-themed 2D arcade game developed in Unity (C#). Showcases custom UI scripting, core gameplay mechanics, and memory integrity management to protect the application runtime. Available to play directly in the browser.
   <br>
   <p align="center">
-    <img src="docs/cosmic1.png" width="32%" />
-    <img src="docs/cosmic2.png" width="32%" />
-    <img src="docs/cosmic3.png" width="32%" />
+    <img src="docs/CosmicShatterStartScreen.png" width="24%" />
+    <img src="docs/CosmicShatterGamePlay.png" width="24%" />
+    <img src="docs/CosmicShatterGamePlay2.png" width="24%" />
+    <img src="docs/CosmicShatterHighScore.png" width="24%" />
   </p>
 
 ### 📫 Let's Connect
