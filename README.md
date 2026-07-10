@@ -20,6 +20,17 @@ I am a Computer Science and Cybersecurity student focused on secure network infr
     <img src="docs/EndpointAuditorScanComplete-HowToFix.png" width="24%" />
   </p>
 
+* **[PersistenceAuditor](https://github.com/ChadCrowley-Tech/PersistenceAuditor.git)**
+  PersistenceAuditor is a dedicated, WPF-based threat hunting and SIEM telemetry dashboard designed to identify, classify, and neutralize Windows persistence mechanisms.
+Engineered in C# (.NET), the tool bridges the gap between endpoint forensics and enterprise Security Operations Centers (SOC). It conducts live static scanning across critical operating system hives and routes the telemetry through a decoupled architecture, allowing analysts to rapidly purge active threats or dispatch JSON-structured payloads to remote endpoints.
+  <br>
+  <p align="center">
+    <img src="images/PersistenceAuditorScreenshot.png" width="24%" />
+    <img src="images/PersistenceAuditor16.png" width="24%" />
+    <img src="images/PersistenceAuditor1.png" width="24%" />
+    <img src="images/PersistenceAuditor10.png" width="24%" />
+  </p>
+
 * **[PacketAuditor](https://github.com/ChadCrowley-Tech/PacketAuditor.git)**
   A multi-threaded, stateful network traffic analyzer and forensic logging engine built in Python. Engineered with a CustomTkinter GUI, it features deep packet inspection (DPI), live reverse-DNS threat intelligence mapping, automated forensic PCAP exporting, and thread-safe visual analytics.
   <br>
