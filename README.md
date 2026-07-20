@@ -39,11 +39,21 @@ Engineered in C# (.NET), the tool bridges the gap between endpoint forensics and
 
 * **[PacketAuditor](https://github.com/ChadCrowley-Tech/PacketAuditor.git)**
   A multi-threaded, stateful network traffic analyzer and forensic logging engine built in Python. Engineered with a CustomTkinter GUI, it features deep packet inspection (DPI), live reverse-DNS threat intelligence mapping, automated forensic PCAP exporting, and thread-safe visual analytics.
-  <br>
+   <br>
   <p align="center">
-    <img src="docs/gui_main.png" width="32%" />
-    <img src="docs/analytics_chart.png" width="32%" />
-    <img src="docs/Bandwidth_Top5.png" width="32%" />
+    <img src="docs/PacketAuditorDashboard.png" width="24%" />
+    <img src="docs/PacketAuditorTrafficFilter.png" width="24%" />
+    <img src="docs/PacketAuditorPacketCountFilter.png" width="24%" />
+    <img src="docs/PacketAuditorTop5Talkers.png" width="24%" />
+  </p>
+  <p align="center">
+    <img src="docs/PacketAuditorThreatCapture.png" width="24%" />
+    <img src="docs/PacketAuditorThreatMatrix.png" width="24%" />
+    <img src="docs/PacketAuditorBandwidthTimeline.png" width="24%" />
+    <img src="docs/PacketAuditorGeoHeatmap.png" width="24%" />
+  </p>  
+  <p align="center">
+    <img src="docs/PacketAuditorProtocolDistributionChart.png" width="24%" />   
   </p>
 
 * **[Cosmic Shatter](https://chadcrowley-tech.github.io/Cosmic-Shatter/)**
