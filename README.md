@@ -5,7 +5,7 @@ I am a Computer Science and Cybersecurity student focused on secure network infr
 ### 🔧 Technical Arsenal
 * **Languages:** Python, C++, C#, Java, HTML
 * **Security & Network Engineering:** Packet Analysis, Intrusion Detection (IDS), VLAN Segmentation, Firewall Configuration (Palo Alto, Meraki), HIPAA Compliance Standards
-* **Frameworks & Libraries:** Scapy, CustomTkinter, Matplotlib, Socket
+* **Frameworks & Libraries:** Scapy, CustomTkinter, Matplotlib, Pandas, Socket, GeoIP2
 * **Tools & Game Engines:** Git, Wireshark, Visio, Unity
 
 ### 🚀 Featured Projects
@@ -38,7 +38,7 @@ Engineered in C# (.NET), the tool bridges the gap between endpoint forensics and
   </p>
 
 * **[PacketAuditor](https://github.com/ChadCrowley-Tech/PacketAuditor.git)**
-  A multi-threaded, stateful network traffic analyzer and forensic logging engine built in Python. Engineered with a CustomTkinter GUI, it features deep packet inspection (DPI), live reverse-DNS threat intelligence mapping, automated forensic PCAP exporting, and thread-safe visual analytics.
+  An enterprise-grade network sensor and offline analytics Proof of Concept (PoC) built natively in Python. Designed to emulate how dedicated SOC sensors process traffic, it features a stateless heuristics engine (IDS) with live UI threat flagging, deep packet inspection (DPI), MaxMind geographical mapping, and a Pandas-driven data science pipeline for rendering thread-safe visual analytics.
    <br>
   <p align="center">
     <img src="docs/PacketAuditorDashboard.png" width="24%" />
