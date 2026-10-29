@@ -1,14 +1,14 @@
-# Hi, I'm Chad Crowley 👋
+# Hi, I'm Chad Crowley 
 
 I am a Computer Science and Cybersecurity student focused on secure network infrastructure, system modernization, and robust software development. I am passionate about bridging the gap between secure network architecture and efficient, scalable code, with a strong emphasis on the Separation of Concerns principle.
 
-### 🔧 Technical Arsenal
+### Technical Arsenal
 * **Languages:** Python, C++, C#, Java, HTML
 * **Security & Network Engineering:** Packet Analysis, Intrusion Detection (IDS), VLAN Segmentation, Firewall Configuration (Palo Alto, Meraki), HIPAA Compliance Standards
 * **Frameworks & Libraries:** Scapy, CustomTkinter, Matplotlib, Pandas, Socket, GeoIP2
 * **Tools & Game Engines:** Git, Wireshark, Visio, Unity
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **[EndpointAuditor](https://github.com/ChadCrowley-Tech/EndpointAuditor.git)**
   A scalable security auditing tool engineered with a strict Separation of Concerns architecture. Built to transition seamlessly from a lightweight Command Line Interface (CLI) to a fully featured Graphical User Interface (GUI), ensuring clean, maintainable, and robust code.
@@ -66,9 +66,7 @@ Engineered in C# (.NET), the tool bridges the gap between endpoint forensics and
     <img src="docs/CosmicShatterHighScore.png" width="24%" />
   </p>
 
-### 📫 Let's Connect
+### Let's Connect
 * **Email:** ChadCrowley.Tech@proton.me
 
----
-⚡ **Fun fact:** I have over 25 years of experience working with Windows operating systems, giving me a deep, foundational perspective on how software architecture and local network infrastructure have evolved over the decades. 
 
